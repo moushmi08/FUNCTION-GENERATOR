@@ -3,12 +3,6 @@
 A function generator built purely from op-amps, capable of putting out
 sine, square, and triangular waves. Done as part of the **EC Lab** course.
 
-## Team
-
-- Swathy Krishna Sajeev (B210055EC)
-- T K Sreevatsa Murthy (B210656EC)
-- Thondepu Moushmi (B210745EC)
-
 ## About the Project
 
 Most function generators you'd buy are built around dedicated ICs, but we
